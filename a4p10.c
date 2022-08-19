@@ -1,4 +1,4 @@
-//  Assignment - 4   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Operators in C Language
+//  Assignment - 4   ===>    A Job Ready Bootcamp in C++, DSA and IOT - MySirG  ===>    Iterative Control Statements in C Language
 //  Assignment-04_Problem-02: Write a program to print the table of 5.
 
 #include <stdio.h>
